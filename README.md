@@ -3,6 +3,11 @@
 • Created table and data interaction between server and database by PostgresSQL </br>
 • Optimizing performance and concurrency control for data processing by creating index within database </br>
 
+## Requirement
+Tomcat 9.0
+IDEs: ecplise
+DataBase: PostgresSQL
+
 ## Here is the demo
 ![addingitem](https://user-images.githubusercontent.com/21152514/30788629-a975f74c-a153-11e7-816b-8ea065e794da.png)
 ![backend](https://user-images.githubusercontent.com/21152514/30788630-a9760ebc-a153-11e7-9a62-c9b21cc4cfd2.png)
