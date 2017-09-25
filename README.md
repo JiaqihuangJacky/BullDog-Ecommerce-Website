@@ -13,6 +13,7 @@ Framwork: Bootstrap 4.0.0-beta
 ## Description
 All the java codes is in /WebContent and An-Ecommerce-Website/src/ </br>
 All the demo image in /DemoImage </br>
+DataBase tables in daigou.sql
 The controller of backend management system is in An-Ecommerce-Website/src/com/products/productControllerServlet.java </br>
 The controller will display the item. You can do the following:  </br>
 add, update, delete, search from Db and go back to homepages  </br>
