@@ -4,9 +4,18 @@
 • Optimizing performance and concurrency control for data processing by creating index within database </br>
 
 ## Requirement
-Tomcat 9.0
-IDEs: ecplise
-DataBase: PostgresSQL
+Tomcat 9.0 </br>
+IDEs: ecplise </br>
+DataBase: PostgresSQL </br>
+
+
+## Description
+All the java codes is in /WebContent and An-Ecommerce-Website/src/ </br>
+All the demo image in /DemoImage </br>
+The controller of backend management system is in An-Ecommerce-Website/src/com/products/productControllerServlet.java </br>
+The controller will display the item. You can do the following:  </br>
+add, update, delete, search from Db and go back to homepages  </br>
+All the other lib: https://github.com/JiaqihuangJacky/An-Ecommerce-Website/tree/master/WebContent/WEB-INF/lib </br>
 
 ## Here is the demo
 ![addingitem](https://user-images.githubusercontent.com/21152514/30788629-a975f74c-a153-11e7-816b-8ea065e794da.png)
