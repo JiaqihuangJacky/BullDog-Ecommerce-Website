@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<Resource
+    name="jdbc/shoppingAppDB"
+    auth="Container"
+    type="javax.sql.DataSource"
+    maxTotal="100"
+    maxIdle="30"
+    maxWaitMillis="10000"
+    driverClassName="org.postgresql.Driver"
+    url="jdbc:postgresql://localhost:5432/demo"
+    username="postgres"
+    password="2397056Hjq"
+/>
+
+</Context>
